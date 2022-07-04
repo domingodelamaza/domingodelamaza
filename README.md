@@ -1,12 +1,11 @@
 Hi, I'm Domingo de la Maza from Chile, born in South Africa, and I'm an Industrial Engineer with a Master of Financial Management from The Australian National University, passionate about 
-finances and technology.
+finance and technology.
 I'm interested in learning more about Data Engineering, with the purpose of automation of data pipelines to have operational and financial data inside
-the company, with velocity and veracity, and this way, companies can have real-time insights, KPIs, and financial ratios, for decision making with reliable sources.
+the company, with velocity and veracity, and this way, companies can have real-time information with insights, KPIs, and financial ratios, for instant decision making
 
-I have experience working in Chile and Australia, in the manufacturing industry (consumer goods, concrete, and pocket door hardware), technology industry (IT & Telecom)
+I have experience working in Chile and Australia in the manufacturing industry (consumer goods, concrete, and pocket door hardware), technology industry (IT & Telecom)
 and real estate. I have worked in the Finance department and Operation departments.
 
 
 
 📫 How to reach me ... Just email me: domingodelamaza@gmail.com 
-Bye bye!
